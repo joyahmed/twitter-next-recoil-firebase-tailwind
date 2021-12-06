@@ -7,6 +7,6 @@ module.exports = {
 		return config;
 	},
 	images: {
-		domains: ['rb.gy']
+		domains: ['rb.gy', 'lh3.googleuserconent.com']
 	}
 };
